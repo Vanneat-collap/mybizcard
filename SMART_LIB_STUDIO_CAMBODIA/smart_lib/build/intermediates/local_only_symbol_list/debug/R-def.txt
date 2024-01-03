@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+attr? pinAnimationType
+attr? pinBackgroundDrawable
+attr? pinBackgroundIsSquare
+attr? pinCharacterSpacing
+attr? title_bold
+attr? title_color
+attr? title_size
+attr? title_text
+attr? trimLength
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable menu_background
+id badge_text
+id button_text
+id day
+id fromBottom
+id month
+id none
+id popIn
+id year
+integer smart_lib_version
+layout layout_comm_date_picker_layout
+string app_name
+string lib_dlg_alert_title
+string lib_dlg_error_title
+style AppTheme
+style TransparentProgressDialog
+styleable ExpandableTextView trimLength
+styleable FlexibleToolBar title_text title_size title_color title_bold
+styleable PinEditor pinAnimationType pinCharacterSpacing pinBackgroundDrawable pinBackgroundIsSquare

@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:1:2-10:12
+INJECTED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:1:2-10:12
+	package
+		ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:2:5-30
+		INJECTED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:1:12-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:4:6-80
+	android:name
+		ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:4:23-77
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:5:6-77
+	android:name
+		ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:5:23-74
+meta-data#lib_version
+ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:6:5-8:54
+	android:value
+		ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:8:9-51
+	android:name
+		ADDED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:7:9-35
+uses-sdk
+INJECTED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml

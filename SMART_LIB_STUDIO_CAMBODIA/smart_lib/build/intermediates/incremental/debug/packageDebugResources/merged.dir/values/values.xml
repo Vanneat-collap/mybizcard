@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <item name="badge_text" type="id"/>
+    <item name="button_text" type="id"/>
+    <integer name="smart_lib_version">104</integer>
+    <string name="app_name">KT 법인카드</string>
+    <string name="lib_dlg_alert_title">알림</string>
+    <string name="lib_dlg_error_title">경고</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TransparentProgressDialog" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <declare-styleable name="ExpandableTextView">
+		<attr format="integer" name="trimLength"/>
+	</declare-styleable>
+    <declare-styleable name="FlexibleToolBar">
+		<attr format="string" name="title_text"/>
+		<attr format="integer" name="title_size"/>
+		<attr format="color" name="title_color"/>
+		<attr format="boolean" name="title_bold"/>
+	</declare-styleable>
+    <declare-styleable name="PinEditor">
+		<attr format="enum" name="pinAnimationType">
+			<enum name="popIn" value="0"/>
+			<enum name="fromBottom" value="1"/>
+			<enum name="none" value="-1"/>
+		</attr>
+		<attr format="dimension" name="pinCharacterSpacing"/>
+		<attr format="reference" name="pinBackgroundDrawable"/>
+		<attr format="boolean" name="pinBackgroundIsSquare"/>
+	</declare-styleable>
+</resources>

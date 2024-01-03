@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.webcash.sws" >
+4
+5    <uses-sdk android:minSdkVersion="15" />
+6
+7    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+7-->D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:4:6-80
+7-->D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:4:23-77
+8    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+8-->D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:5:6-77
+8-->D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:5:23-74
+9
+10    <meta-data
+10-->D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:6:5-8:54
+11        android:name="lib_version"
+11-->D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:7:9-35
+12        android:value="@integer/smart_lib_version" />
+12-->D:\AndroidT\MyBizCard_Rebuild\MyBizCard_Rebuild\SMART_LIB_STUDIO_CAMBODIA\smart_lib\src\main\AndroidManifest.xml:8:9-51
+13
+14</manifest>

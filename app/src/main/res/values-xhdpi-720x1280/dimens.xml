@@ -1,0 +1,27 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--Circle progressbar-->
+
+
+    <!-- coach_rescipt_Text-->
+
+    <!--coach_rescipt_plus-->
+
+<!--
+    <dimen name="plus_margin_top">31dp</dimen>
+    <dimen name="plus_margin_Right">16dp</dimen>
+-->
+
+    <!-- the end coach_rescipt-->
+
+
+    <!-- Card Info -->
+    <!--<dimen name="page_content_width">280dp</dimen>
+    <dimen name="page_content_height">186dp</dimen>-->
+
+    <!-- End of Card Info-->
+
+    <!--Search activity-->
+    <!--End search activity-->
+</resources>

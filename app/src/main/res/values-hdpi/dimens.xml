@@ -1,0 +1,8 @@
+<resources>
+    <!-- intro -->
+
+    <!-- guide screen -->
+    <dimen name="guide_screen_01_top">110dp</dimen>
+    <dimen name="guide_screen_01_left">30dp</dimen>
+
+</resources>

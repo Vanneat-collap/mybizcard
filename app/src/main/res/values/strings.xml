@@ -1,0 +1,140 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">비플 법인카드_Rebuild</string>
+
+    <!-- Intro -->
+
+    <!-- A001-0_Button -->
+
+    <!-- A001-1_앱소개01 -->
+
+    <!-- A001-2_앱소개02 -->
+
+    <!-- A001-3_앱소개03 -->
+
+    <!-- A001-4_앱소개04 -->
+
+    <!-- A001-5_앱소개05 -->
+
+    <!-- A001-6_앱소개06 -->
+
+    <!--A004-안내가이드-->
+
+    <!-- A005_로그인 -->
+    <string name="A005_1">로그인</string>
+    <string name="A005_3">아이디</string>
+    <string name="A005_4">비밀번호</string>
+    <string name="A005_6">아이디 찾기</string>
+    <string name="A005_7">비밀번호 찾기</string>
+    <string name="A005_8">자동로그인</string>
+    <string name="A005_9">아이디 또는 비밀번호가 일치하지 않습니다. 입력내용을 확인해 주세요.</string>
+    <string name="A005_11">회원가입</string>
+
+    <!-- A006_MY카드 -->
+
+    <!-- A006_1_MY카드 -->
+
+    <!-- A007_2_4P_용도선택 팝업 -->
+
+    <!-- A007_7P_영수증담당자거부안내팝업 -->
+
+    <!-- A007_14_다음작업 팝업-->
+
+    <!-- Permissions  -->
+
+    <!--Memo-->
+
+    <!-- Image description -->
+
+    <!-- Choose Register Method -->
+
+    <!-- A004-4,5,6_안내가이드 -->
+    <string name="caoch_recpt1">영수증 등록하기</string>
+    <string name="caoch_recpt2">경비용도로 사용한 영수증을 추가로\n등록할 수 있고,사진만 먼저 촬영하여\n보관할 수 있습니다.</string>
+
+    <!-- A007_2_영수증상세제출전 -->
+
+    <!--new-->
+    <!-- [2020.07.14] : Added :D -->
+    <!-- 2020.09.07 -->
+    <!-- 2021.10.25 -->
+
+    <!--<string name="POP_08">영수증 보내기 또는 결의서 작성을 한 영수증은 수정할 수 없습니다.</string>-->
+    <!-- A013_1_AuthorizeDialog -->
+
+    <!--<string name="POP_59">비플페이(간편결제) 서비스를 이용하실 수 없습니다.\n회사 관리자에게 문의하세요.</string>
+    <string name="POP_60">비플페이(간편결재)서비스는 지정된\n법인카드 사용자만 이용할 수 있습니다.\n회사 법인카드 관리자에게 문의하세요.</string>-->
+    <string name="POP_64">카드 등록 신청이 완료되었습니다.\n회사 관리자가 승인하면 신청한\n카드의 경비처리가 가능합니다.</string>
+    <!--malen-->
+
+    <!--<string name="ACA_02">거래처명, 담당자명으로 검색</string>-->
+
+    <!-- Addd Employee and Customer -->
+
+    <!-- 알림 -->
+
+    <!-- 더보기 -->
+
+    <!-- 프로필상세 -->
+
+    <!-- 설정상세 -->
+
+    <!-- 리포트 -->
+
+    <!--ReceiptTranHistoryActivityvity && FragmentReceiptExpandable-->
+
+    <!--Dialog-->
+
+    <!--Popup-->
+
+    <!--CreateNewReceiptActivityvity -->
+
+    <!--AttachedReceiptActivityvity -->
+
+    <!--CreateExpenseReportActivityvity -->
+
+    <!--not use-->
+
+    <!-- Dialog Alert -->
+    <string name="DlG_ALERT_TITER">알림</string>
+    <string name="DLG_ALERT_OK">확인</string>
+    <string name="DLG_ALERT_CANCEL">취소</string>
+
+    <!-- ComTran -->
+    <string name="COM_TRAN_1">인터넷 연결이 불안정합니다.\n연결 후 이용하시기 바랍니다.</string>
+    <string name="COM_TRAN_2">처리중 오류가 발생하였습니다.</string>
+    <string name="COM_TRAN_3">통신 상태가 불안정합니다.\n잠시 후 이용하시기 바랍니다.</string>
+
+    <!-- ComUpload -->
+
+    <!-- Language -->
+    <string name="LANGUAGE_FLAG_KO">한국어</string>
+    <string name="LANGUAGE_FLAG_EN">English</string>
+    <string name="LANGUAGE_FLAG_ZH">中國語</string>
+    <string name="LANGUAGE_FLAG_JP">日本語</string>
+    <string name="LANGUAGE_FLAG_VI">tiếng Việt</string>
+
+    <!--RegisterCard-->
+
+    <!--Notification_detail-->
+
+    <!--Search Activity-->
+
+    <!-- Tag-->
+
+    <!--MobileInquiry Activity-->
+
+    <!--TabReceiptAdapterExpandable-->
+
+    <!--Create new customer activity-->
+
+    <!-- 2020.11.18 -->
+
+    <!--quick service-->
+
+    <!-- 2021.01.11 -->
+
+    <!--    2023.06.23-->
+
+
+</resources>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2015 Pedramrn@gmail.com
+  ~
+  ~    Licensed under the Apache License, Version 2.0 (the "License");
+  ~    you may not use this file except in compliance with the License.
+  ~    You may obtain a copy of the License at
+  ~
+  ~        http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~    Unless required by applicable law or agreed to in writing, software
+  ~    distributed under the License is distributed on an "AS IS" BASIS,
+  ~    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~    See the License for the specific language governing permissions and
+  ~    limitations under the License.
+  -->
+
+<resources>
+    <declare-styleable name="ProgressWheel">
+        <attr name="text" format="string" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="barColor" format="color" />
+        <attr name="rimColor" format="color" />
+        <attr name="rimWidth" format="dimension" />
+        <attr name="spinSpeed" format="dimension" />
+        <attr name="delayMillis" format="integer" />
+        <attr name="circleColor" format="color" />
+        <attr name="pw_radius" format="dimension" />
+        <attr name="barWidth" format="dimension" />
+        <!--<attr name="barLength" format="dimension" />-->
+        <attr name="contourColor" format="color" />
+        <attr name="contourSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleProgressBar">
+        <attr name="min" format="integer" />
+        <attr name="max" format="integer" />
+        <attr name="progress" format="integer" />
+        <attr name="progressbarColor" format="color" />
+        <attr name="progressBarThickness" format="dimension" />
+
+    </declare-styleable>
+
+
+    <declare-styleable name="CarouselViewPager">
+        <attr name="android:orientation" />
+        <attr name="infinite" format="boolean" />
+        <attr name="scrollScalingMode" />
+        <attr name="bigScale" format="float" />
+        <attr name="smallScale" format="float" />
+        <attr name="minPagesOffset" format="dimension" />
+        <attr name="sidePagesVisiblePart" format="float" />
+        <attr name="wrapPadding" format="dimension" />
+    </declare-styleable>
+
+    <attr name="scrollScalingMode" format="enum">
+        <enum name="bigCurrent" value="0" />
+        <enum name="bigAll" value="1" />
+        <enum name="none" value="2" />
+    </attr>
+
+    <declare-styleable name="ForegroundLinearLayout">
+        <attr name="android:foreground" />
+    </declare-styleable>
+
+    <declare-styleable name="ForegroundRelativeLayout">
+        <attr name="android:foreground" />
+    </declare-styleable>
+
+
+    <!-- Sliding Up Panel-->
+    <declare-styleable name="SlidingUpPanelLayout">
+        <attr name="umanoPanelHeight" format="dimension" />
+        <attr name="umanoShadowHeight" format="dimension" />
+        <attr name="umanoParallaxOffset" format="dimension" />
+        <attr name="umanoFadeColor" format="color" />
+        <attr name="umanoFlingVelocity" format="integer" />
+        <attr name="umanoDragView" format="reference" />
+        <attr name="umanoScrollableView" format="reference" />
+        <attr name="umanoOverlay" format="boolean" />
+        <attr name="umanoClipPanel" format="boolean" />
+        <attr name="umanoAnchorPoint" format="float" />
+        <attr name="umanoInitialState" format="enum">
+            <enum name="expanded" value="0" />
+            <enum name="collapsed" value="1" />
+            <enum name="anchored" value="2" />
+            <enum name="hidden" value="3" />
+        </attr>
+        <attr name="umanoScrollInterpolator" format="reference" />
+    </declare-styleable>
+
+
+    <!--
+  ~ Copyright (C) 2016 Evgenii Zagumennyi
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~    http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ https://github.com/zagum/Android-ExpandIcon
+  -->
+    <declare-styleable name="ExpandIconView">
+        <attr name="eiv_roundedCorners" format="boolean" />
+        <attr name="eiv_switchColor" format="boolean" />
+        <attr name="eiv_color" format="color" />
+        <attr name="eiv_colorMore" format="color" />
+        <attr name="eiv_colorLess" format="color" />
+        <attr name="eiv_colorIntermediate" format="color" />
+        <attr name="eiv_animationDuration" format="integer" />
+        <attr name="eiv_padding" format="dimension" />
+    </declare-styleable>
+
+    <!-- Declare custom theme attributes that allow changing which styles are
+         used for button bars depending on the API level.
+         ?android:attr/buttonBarStyle is new as of API 11 so this is
+         necessary to support previous API levels. -->
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr name="metaButtonBarStyle" format="reference" />
+        <attr name="metaButtonBarButtonStyle" format="reference" />
+    </declare-styleable>
+
+</resources>

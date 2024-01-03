@@ -1,0 +1,5 @@
+<resources>
+    <!-- Samsung galaxy S5 is an xxhdpi device. The resolution of 1080 x 1920 is not in dp, it is in pixels.
+    3 pixels per dp this makes the resolution in dp 360 x 640dp, hence why it uses the values-sw320dp
+    Reference : https://stackoverflow.com/a/41295775/2365580-->
+</resources>

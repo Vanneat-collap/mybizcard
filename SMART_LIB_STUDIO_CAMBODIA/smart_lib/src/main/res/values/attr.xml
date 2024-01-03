@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="ExpandableTextView">
+		<attr name="trimLength" format="integer"/>
+	</declare-styleable>
+
+	<declare-styleable name="FlexibleToolBar">
+		<attr name="title_text" format="string"/>
+		<attr name="title_size" format="integer"/>
+		<attr name="title_color" format="color"/>
+		<attr name="title_bold" format="boolean"/>
+	</declare-styleable>
+
+	<declare-styleable name="PinEditor">
+		<attr name="pinAnimationType" format="enum">
+			<enum name="popIn" value="0" />
+			<enum name="fromBottom" value="1" />
+			<enum name="none" value="-1" />
+		</attr>
+		<attr name="pinCharacterSpacing" format="dimension" />
+		<attr name="pinBackgroundDrawable" format="reference" />
+		<attr name="pinBackgroundIsSquare" format="boolean" />
+	</declare-styleable>
+</resources>

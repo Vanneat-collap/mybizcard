@@ -1,0 +1,141 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">비플 법인카드</string>
+
+    <!-- Intro -->
+
+    <!-- A001-0_Button -->
+
+    <!-- A001-1_앱소개01 -->
+
+    <!-- A001-2_앱소개02 -->
+
+    <!-- A001-3_앱소개03 -->
+
+    <!-- A001-4_앱소개04 -->
+
+    <!-- A001-5_앱소개05 -->
+
+    <!-- A001-6_앱소개06 -->
+
+    <!--A004-안내가이드-->
+
+    <!-- A005_로그인 -->
+    <string name="A005_1">Sign In</string>
+    <string name="A005_3">User ID</string>
+    <string name="A005_4">Password</string>
+    <string name="A005_6">Forgot User ID</string>
+    <string name="A005_7">Forgot Password</string>
+    <string name="A005_8">Automatic sign in</string>
+    <string name="A005_9">Wrong User ID or Password. Please try again.</string>
+    <string name="A005_11">Join</string>
+
+    <!-- A006_MY카드 -->
+
+    <!-- A006_1_MY카드 -->
+
+    <!-- A007_2_4P_용도선택 팝업 -->
+
+    <!-- A007_7P_영수증담당자거부안내팝업 -->
+
+    <!-- not using -->
+    <!-- A007_14_다음작업 팝업-->
+    <!-- end -->
+
+    <!-- Permissions  -->
+
+    <!--Memo-->
+
+    <!-- Image description -->
+
+    <!-- Choose Register Method -->
+
+    <!-- A004-4,5,6_안내가이드 -->
+    <string name="caoch_recpt1">Add Receipt</string>
+    <string name="caoch_recpt2">Add receipt or save as photo.</string>
+
+    <!-- A007_2_영수증상세제출전 -->
+
+    <!--new-->
+    <!-- [2020.07.14] : Added :D -->
+
+    <!-- 2020.09.07 -->
+    <!-- 2021.10.25 -->
+
+    <!--quick service-->
+
+    <!--<string name="POP_08">영수증 보내기 또는 결의서 작성을 한 영수증은 수정할 수 없습니다.</string>-->
+    <!-- A013_1_AuthorizeDialog -->
+    <!--<string name="POP_59">비플페이(간편결제) 서비스를 이용하실 수 없습니다.\n회사 관리자에게 문의하세요.</string>
+    <string name="POP_60">비플페이(간편결재)서비스는 지정된\n법인카드 사용자만 이용할 수 있습니다.\n회사 법인카드 관리자에게 문의하세요.</string>-->
+    <string name="POP_64">Your application for card registration has been completed.\nIf approved by the company manager, you can pay for the card you have applied for.</string>
+
+    <!-- not using -->
+    <!-- end -->
+
+    <!--<string name="ACA_02">Search by company name, person in charge</string>-->
+
+    <!-- Addd Employee and Customer -->
+
+    <!-- 알림 -->
+
+    <!-- 더보기 -->
+
+    <!-- 프로필상세 -->
+
+    <!-- 설정상세 -->
+
+    <!-- 리포트 -->
+
+    <!--ReceiptTranHistoryActivityvity && FragmentReceiptExpandable-->
+
+    <!--Dialog-->
+
+    <!--Popup-->
+
+    <!--CreateNewReceiptActivityvity -->
+
+    <!--AttachedReceiptActivityvity -->
+
+    <!--CreateExpenseReportActivityvity -->
+
+    <!--not use-->
+
+
+    <!-- Dialog Alert -->
+    <string name="DlG_ALERT_TITER">Notification</string>
+    <string name="DLG_ALERT_OK">Confirm</string>
+    <string name="DLG_ALERT_CANCEL">Cancel</string>
+
+    <!-- ComTran -->
+    <string name="COM_TRAN_1">Internet connection is unstable. Please try again after connecting.</string>
+    <string name="COM_TRAN_2">Error occurred during process.</string>
+    <string name="COM_TRAN_3">Connection is unstable. Please try again later.</string>
+
+    <!-- ComUpload -->
+
+    <!-- Language -->
+    <string name="LANGUAGE_FLAG_KO">한국어</string>
+    <string name="LANGUAGE_FLAG_EN">English</string>
+    <string name="LANGUAGE_FLAG_ZH">中國語</string>
+    <string name="LANGUAGE_FLAG_JP">日本語</string>
+
+    <!--RegisterCard-->
+
+    <!--Notification_detail-->
+
+    <!--Search Activity-->
+
+    <!--MobileInquiry Activity-->
+
+    <!--TabReceiptAdapterExpandable--><![CDATA[
+
+
+    >
+
+    ]]><!--Create new customer activity-->
+
+    <!-- 2020.11.18 -->
+
+    <!-- 2021.01.11 -->
+</resources>

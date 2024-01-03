@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KT 법인카드</string>
+
+    <!-- error message -->
+
+    <!-- DlgAlert title -->
+    <string name="lib_dlg_alert_title">알림</string>
+    <string name="lib_dlg_error_title">경고</string>
+</resources>

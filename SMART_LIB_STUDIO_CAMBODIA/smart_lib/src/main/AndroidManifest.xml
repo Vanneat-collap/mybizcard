@@ -1,0 +1,10 @@
+ <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.webcash.sws">
+
+     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <meta-data
+        android:name="lib_version"
+        android:value="@integer/smart_lib_version" />
+
+</manifest>
